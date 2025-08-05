@@ -1,0 +1,31 @@
+{
+	"urls": [
+	{
+		"url": "http://xhztv.top/xhz",
+		"name": "🚀小盒子推荐"
+	}, {
+		"url": "http://xhztv.top/dc/饭太硬/api.json",
+		"name": "🚀饭太硬线"
+	}, {
+		"url": "http://xhztv.top/dc/小米/api.json",
+		"name": "🚀小米线路"
+	}, {
+		"url": "http://xhztv.top/dc/肥猫/api.json",
+		"name": "🚀肥猫线路"
+	}, {
+		"url": "http://xhztv.top/dc/摸鱼儿/api.json",
+		"name": "🚀摸鱼儿线路"
+	}, {
+		"url": "http://xhztv.top/dc/小鱼干/api.json",
+		"name": "🚀小鱼干线路"
+	}, {
+		"url": "http://xhztv.top/dc/神仙/api.json",
+		"name": "🚀神仙线路"
+	}, {
+		"url": "http://xhztv.top/dc/少儿频道/api.json",
+		"name": "🚀少儿频道"
+	}, {
+		"url": "http://xhztv.top/dc/动漫频道/api.json",
+		"name": "🚀动漫频道"
+	}]
+}
